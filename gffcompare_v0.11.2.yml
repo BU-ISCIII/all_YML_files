@@ -1,0 +1,13 @@
+name: gffcompare_v0.11.2
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - gffcompare=0.11.2=h6bb024c_0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+prefix: /processing_Data/bioinformatics/pipelines/miniconda3/envs/gffcompare_v0.11.2
+

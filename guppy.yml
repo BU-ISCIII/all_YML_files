@@ -1,0 +1,13 @@
+name: guppy
+channels:
+  - rmg
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - glibc=2.19=0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+prefix: /home/s.varona/.conda/envs/guppy
+

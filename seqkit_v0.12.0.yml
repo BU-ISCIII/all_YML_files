@@ -1,0 +1,11 @@
+name: seqkit_v0.12.0
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - seqkit=0.12.0=0
+prefix: /processing_Data/bioinformatics/pipelines/miniconda3/envs/seqkit_v0.12.0
+

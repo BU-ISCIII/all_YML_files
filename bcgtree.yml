@@ -1,0 +1,17 @@
+name: bcgtree
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - gblocks=0.91b=1
+  - hmmer=3.2.1=hf484d3e_1
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - muscle=3.8.1551=h6bb024c_4
+  - raxml=8.2.12=h14c3975_1
+prefix: /processing_Data/bioinformatics/pipelines/miniconda3/envs/bcgtree
+

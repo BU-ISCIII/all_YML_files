@@ -1,0 +1,56 @@
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-mag-1.0.0/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-mag-1.0.0/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-mag-1.0.0/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-mag-1.0.0/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0.0/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0.0/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0.0/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0.0/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-addr2line
+ERROR: activate-binutils_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.0dev/bin/x86_64-conda_cos6-linux-gnu-addr2line
+ERROR: deactivate-binutils_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.2.0dev/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.2.0dev/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.2.0dev/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/nf-core-viralrecon-1.2.0dev/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-gfortran
+INFO: activate-gfortran_linux-64.sh made the following environmental changes:
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-gfortran
+INFO: deactivate-gfortran_linux-64.sh made the following environmental changes:
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina_sispa/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina_sispa/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina_sispa/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: deactivate-gxx_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /processing_Data/bioinformatics/pipelines/miniconda3/envs/virus_illumina_sispa/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: deactivate-gcc_linux-64.sh failed, see above for details

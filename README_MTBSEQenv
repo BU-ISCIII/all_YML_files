@@ -1,0 +1,10 @@
+conda env create -f mtbseq.yml
+conda activate mtbseq
+wget https://storage.googleapis.com/gatk-software/package-archive/gatk/GenomeAnalysisTK-3.8-0-ge9d806836.tar.bz2
+gatk-register GenomeAnalysisTK-3.8-0-ge9d806836.tar.bz2
+cp /tmp/gatk/GenomeAnalysisTK-3.8-0-ge9d806836/GenomeAnalysisTK.jar .
+rm -r /tmp/gatk/
+gatk-register GenomeAnalysisTK.jar
+cd /data/bi/pipelines/miniconda3/envs/mtbseq/bin/
+ln -s ../opt/gatk-3.8/gatk.py ./gatk3
+MTBseq --check

@@ -1,0 +1,14 @@
+name: bbtools
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - bbmap=38.79=h516909a_0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - openjdk=8.0.152=h7b6447c_3
+prefix: /processing_Data/bioinformatics/pipelines/miniconda3/envs/bbtools
+

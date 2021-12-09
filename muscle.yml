@@ -1,0 +1,16 @@
+name: muscle
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=0_gnu
+  - libgcc-ng=9.2.0=h24d8f2e_2
+  - libgomp=9.2.0=h24d8f2e_2
+  - libstdcxx-ng=9.2.0=hdf63c60_2
+  - muscle=3.8.1551=hc9558a2_5
+prefix: /processing_Data/bioinformatics/pipelines/miniconda3/envs/muscle
+

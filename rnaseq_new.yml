@@ -1,0 +1,37 @@
+name: rnaseq
+channels:
+  - bioconda
+  - anaconda
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  ## confa-forge
+  - conda-forge::python=3.7.6
+  - conda-forge::r-base=3.5.1
+  - conda-forge::r-optparse=1.6.6
+  - conda-forge::r-gplots=3.0.1.1
+  ## Preprocessing
+  - bedops=2.4.39
+  - gffread=0.9.12
+  - fastqc=0.11.8
+  ## Alignment & Quality
+  - star=2.6.1d
+  - hisat2=2.1.0
+  - rseqc=3.0.0
+  - preseq=2.0.3
+  - samtools=1.9
+  ## Duplications
+  - picard=2.18.27
+  - bioconductor-dupradar=1.12.1
+  ## Expression
+  - bioconductor-rsubread=1.32.4
+  - subread=1.6.4
+  - stringtie=1.3.5
+  - bioconductor-edger=3.24.1
+  - bioconductor-limma=3.38.3
+  - csvtk=0.17.0
+  ## Reports
+  - multiqc=1.7
+  - r-markdown=0.9
+  - wkhtmltopdf=0.12.4
